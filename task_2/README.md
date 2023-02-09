@@ -1,4 +1,5 @@
 Task_2 
+
     instructions:
         - Using a terminal naavigate to ./cypress/integration
         - Type in the terminal the command npx cypress open (cypress v6.5)
