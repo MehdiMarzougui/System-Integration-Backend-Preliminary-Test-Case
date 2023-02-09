@@ -1,8 +1,10 @@
 Task_1 
     file instructions:
+    
         - Open a terminal and naviagete to the test.py file
         - Run the file
         - The feed.xml file will be generated
+        
     Explanation:
         - The code bit that intiates the process is at the end of the test.py file,
         it establish the connection with the data.sqlite database fetches the products,
